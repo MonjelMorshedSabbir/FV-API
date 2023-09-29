@@ -1,0 +1,96 @@
+{
+    "Suffix":"&videoCategoryId=10&maxResults=50&order=relevance&videoDuration=short",
+    "List":[
+        {
+            "catName": "Latest",
+            "catLogoUrl": "https://cdn.discordapp.com/attachments/1053041392835895389/1109559960259530762/headphones-clipart-design-illustartion-free-png.webp",
+            "catItemPrefix":"&q=Latest Hit Music videos",
+            "showChannel":true
+        },
+        {
+            "catName": "Lofi",
+            "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109902972898529412/lofi2.png",
+            "catItemPrefix":"&q=Soft lofi music",
+            "showChannel":true
+        },
+        {
+            "catName": "Arabic",
+            "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109558950308880444/music5.png",
+            "catItemPrefix":"&q=Arabic Music videos",
+            "showChannel":true
+        },
+        {
+            "catName": "Bangla",
+            "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109558950044647665/music4.png",
+            "catItemPrefix":"&q=Bangla Music Videos",
+            "showChannel":true
+        },
+        {
+            "catName": "English",
+            "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109558957325951027/music2.png",
+            "catItemPrefix":"&q=Latest English Famous Music Videos",
+            "showChannel":true
+        },
+        {
+            "catName": "Hindi",
+            "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109558950816383127/music8.png",
+            "catItemPrefix":"&q=Hindi Music Videos",
+            "showChannel":true
+        },
+        {
+            "catName": "HipHop",
+            "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109558951156129873/music10.png",
+            "catItemPrefix":"&q=HipHOp Famous Music Videos",
+            "showChannel":true
+        },
+        {
+            "catName": "Mix",
+            "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109558950552158239/music7.png",
+            "catItemPrefix":"&q=Famous Music Videos",
+            "showChannel":true
+        },
+        {
+            "catName": "Pop",
+            "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1122083420068134922/pop.png",
+            "catItemPrefix":"&q=Pop Famous Music Videos",
+            "showChannel":true
+        },
+        {
+            "catName": "Rock",
+            "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1122083419640307742/rock.png",
+            "catItemPrefix":"&q=Rock Famous Music Videos",
+            "showChannel":true
+        },
+        {
+            "catName": "R&B",
+            "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1122083419275411466/rnb.webp",
+            "catItemPrefix":"&q=R&B Famous Music Videos",
+            "showChannel":true
+        },
+        {
+            "catName": "Country",
+            "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1122083418994384988/country.png",
+            "catItemPrefix":"&q=Country Famous Music Videos",
+            "showChannel":true
+        },
+        {
+            "catName": "Jazz",
+            "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1122083418709176370/jazz.png",
+            "catItemPrefix":"&q=Jazz Famous Music Videos",
+            "showChannel":true
+        },
+        {
+            "catName": "EDM",
+            "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1122083418444939275/edm.png",
+            "catItemPrefix":"&q=EDM Famous Music Videos",
+            "showChannel":true
+        },
+        {
+            "catName": "Latin",
+            "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1122083418180689920/latin.png",
+            "catItemPrefix":"&q=Latin Famous Music Videos",
+            "showChannel":true
+        }
+    ]
+    
+}

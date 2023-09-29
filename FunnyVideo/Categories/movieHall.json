@@ -1,0 +1,65 @@
+{
+    "Suffix":"&videoCategoryId=1&maxResults=50&order=relevance&videoDuration=long",
+    "List":[
+        {
+            "catName": "Action",
+            "catLogoUrl": "https://cdn.discordapp.com/attachments/1053041392835895389/1118467629917679646/movie2.png",
+            "catItemPrefix":"&q=Latest Hindi Dubbed Action Movies",
+            "showChannel":true
+        },
+        {
+            "catName": "Bangla",
+            "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122072677885157457/bangla.png",
+            "catItemPrefix":"&q=Latest Bangla Movies",
+            "showChannel":true
+        },
+        {
+            "catName": "Bhojpuri",
+            "catLogoUrl": "https://cdn.discordapp.com/attachments/1053041392835895389/1118472384563925062/movie3.png",
+            "catItemPrefix":"&q=Latest Hindi Dubbed Bhojpuri Movies",
+            "showChannel":true
+        },
+        {
+            "catName": "Chinese",
+            "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122070345508208660/china.png",
+            "catItemPrefix":"&q=Latest Hindi Dubbed Chinese Movies&regionCode=CN",
+            "showChannel":true
+        },
+        {
+            "catName": "HollyWood",
+            "catLogoUrl": "https://cdn.discordapp.com/attachments/1053041392835895389/1118472980415131688/movie4.png",
+            "catItemPrefix":"&q=Latest Hindi Dubbed Hollywood Movies&regionCode=US",
+            "showChannel":true
+        },
+        {
+            "catName": "Korean",
+            "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122070345805996143/korean.png",
+            "catItemPrefix":"&q=Latest Hindi Dubbed Korean Movies&regionCode=KR",
+            "showChannel":true
+        },
+        {
+            "catName": "Malayalam",
+            "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122070346103795722/a.png",
+            "catItemPrefix":"&q=Latest Hindi Dubbed Malayalam Movies",
+            "showChannel":true
+        },
+        {
+            "catName": "Panjabi",
+            "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122070346435149905/b.webp",
+            "catItemPrefix":"&q=Latest Hindi Dubbed Panjabi Movies",
+            "showChannel":true
+        },
+        {
+            "catName": "South",
+            "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122073894640173056/b.png",
+            "catItemPrefix":"&q=Latest Hindi Dubbed South Indian Movies",
+            "showChannel":true
+        },
+        {
+            "catName": "Tamil",
+            "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122070347349504080/c.png",
+            "catItemPrefix":"&q=Latest Hindi Dubbed Tamil Movies",
+            "showChannel":true
+        }
+    ]
+}

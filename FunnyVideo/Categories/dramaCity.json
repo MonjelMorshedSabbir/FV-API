@@ -1,0 +1,25 @@
+{
+    "Suffix":"&videoCategoryId=24&maxResults=50&order=relevance&videoDuration=long",
+    "List":[
+        {
+            "catName": "Mixed Drama",
+            "catLogoUrl": "https://cdn.discordapp.com/attachments/1121841083807178924/1122063540983955528/dramacat.png",
+            "catItemPrefix":"&q=hindi bangla drama",
+            "showChannel":false
+        },
+        {
+            "catName": "Bangla Natok",
+            "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1122086636705034310/bn.png",
+            "catItemPrefix":"&q=New Bangla Natok&regionCode=BN",
+            "showChannel":true
+            
+        },
+        {
+            "catName": "Series Natok",
+            "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1122086636465950790/series.png",
+            "catItemPrefix":"&q=Bangla Natok Series&regionCode=BN",
+            "showChannel":true
+        }
+    ]
+    
+}
