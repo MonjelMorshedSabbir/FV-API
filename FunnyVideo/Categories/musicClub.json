@@ -1,22 +1,22 @@
 {
-    "Suffix":"&videoCategoryId=10&maxResults=50&order=relevance&videoDuration=short",
+    "Suffix":"&videoCategoryId=10&maxResults=50&videoDuration=short",
     "List":[
         {
             "catName": "Latest",
             "catLogoUrl": "https://cdn.discordapp.com/attachments/1053041392835895389/1109559960259530762/headphones-clipart-design-illustartion-free-png.webp",
-            "catItemPrefix":"&q=Latest Hit Music videos",
+            "catItemPrefix":"&q=Latest Famous Hit Music videos&order=date",
             "showChannel":true
         },
         {
             "catName": "Lofi",
             "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109902972898529412/lofi2.png",
-            "catItemPrefix":"&q=Soft lofi music",
+            "catItemPrefix":"&q=Soft lofi music&order=relevance",
             "showChannel":true
         },
         {
             "catName": "Arabic",
             "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109558950308880444/music5.png",
-            "catItemPrefix":"&q=Arabic Music videos",
+            "catItemPrefix":"&q=Arabic Music videos&order=relevance",
             "showChannel":true
         },
         {

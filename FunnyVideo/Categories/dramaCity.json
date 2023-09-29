@@ -18,7 +18,7 @@
             "catName": "Series Natok",
             "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1122086636465950790/series.png",
             "catItemPrefix":"&q=Bangla Natok Series&regionCode=BN",
-            "showChannel":true
+            "showChannel":false
         }
     ]
     
