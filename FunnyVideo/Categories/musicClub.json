@@ -22,7 +22,7 @@
         {
             "catName": "Bangla",
             "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109558950044647665/music4.png",
-            "catItemPrefix":"&q=Bangla Music Videos",
+            "catItemPrefix":"&q=Bangla New Music Videos&order=relevance",
             "showChannel":true
         },
         {
