@@ -1,5 +1,6 @@
 {
-    "Suffix":"&videoCategoryId=10&maxResults=50&videoDuration=short",
+    //&videoDuration=short [Deleted Due to data exploration...]
+    "Suffix":"&videoCategoryId=10&maxResults=50",
     "List":[
         {
             "catName": "Latest",
@@ -10,7 +11,7 @@
         {
             "catName": "Lofi",
             "catLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1109902972898529412/lofi2.png",
-            "catItemPrefix":"&q=Soft lofi music&order=relevance",
+            "catItemPrefix":"&q=mind relaxing lofi songs&order=relevance",
             "showChannel":true
         },
         {
