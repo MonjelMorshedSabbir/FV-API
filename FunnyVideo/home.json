@@ -1,27 +1,27 @@
 [
     {
         "typeName": "Funny Videos",
-        "typeLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1157229175229403186/f1.jpg",
+        "typeLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1157229175229403186/f1.jpg?ex=65f403a7&is=65e18ea7&hm=e3a350bb5cc65f7da9f2ce809033627432e31a4255170c3f34d674273cfb88fc&=",
         "typeCatUrl": "https://monjelmorshedsabbir.github.io/FV-API/FunnyVideo/Categories/funnyVideo.json"
-        },
-        {
+    },
+    {
         "typeName": "Drama-Natok",
-        "typeLogoUrl": "https://cdn.discordapp.com/attachments/1053041392835895389/1157229175581720618/funny1.png",
+        "typeLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1157229175581720618/funny1.png?ex=65f403a7&is=65e18ea7&hm=d1a7b9e47fc96f8709890fe5777e7142031db7e4dcd6882e2b5950374a73ec44&=",
         "typeCatUrl": "https://monjelmorshedsabbir.github.io/FV-API/FunnyVideo/Categories/dramaCity.json"
-        },
-        {
+    },
+    {
         "typeName": "Music Club",
-        "typeLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1157229176974233610/music2.jpg",
+        "typeLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1157229176189898812/movies1.png?ex=65f403a7&is=65e18ea7&hm=b1e805abd59bc2207024a36768c65f48842e31a2d5e1ee0eff310811052f4beb&=",
         "typeCatUrl": "https://monjelmorshedsabbir.github.io/FV-API/FunnyVideo/Categories/musicClub.json"
-        },
-        {
+    },
+    {
         "typeName": "Movie Hall",
-        "typeLogoUrl": "https://cdn.discordapp.com/attachments/1053041392835895389/1157229176189898812/movies1.png",
+        "typeLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1157229176189898812/movies1.png?ex=65f403a7&is=65e18ea7&hm=b1e805abd59bc2207024a36768c65f48842e31a2d5e1ee0eff310811052f4beb&=",
         "typeCatUrl": "https://monjelmorshedsabbir.github.io/FV-API/FunnyVideo/Categories/movieHall.json"
-        },
-        {
+    },
+    {
         "typeName": "Prank Kings",
-        "typeLogoUrl": "https://cdn.discordapp.com/attachments/1053041392835895389/1157229174130483241/prank2.jpg",
+        "typeLogoUrl": "https://media.discordapp.net/attachments/1053041392835895389/1157229176189898812/movies1.png?ex=65f403a7&is=65e18ea7&hm=b1e805abd59bc2207024a36768c65f48842e31a2d5e1ee0eff310811052f4beb&=",
         "typeCatUrl": "https://monjelmorshedsabbir.github.io/FV-API/FunnyVideo/Categories/prankKings.json"
-        }
+    }
 ]
